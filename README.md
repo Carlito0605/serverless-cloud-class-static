@@ -1,0 +1,1 @@
+# serverless-cloud-class-static
